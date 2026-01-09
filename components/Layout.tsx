@@ -30,7 +30,7 @@ export const Layout: React.FC<LayoutProps> = ({ children }) => {
 
       <footer className="bg-gray-50 border-t border-gray-200 py-8 px-4 text-center">
         <p className="text-gray-500 text-sm">
-          Powered by Gemini AI • Reducing food waste one recipe at a time.
+          Powered by <b> AlamBinary01 </b> • Reducing food waste one recipe at a time.
         </p>
       </footer>
     </div>
