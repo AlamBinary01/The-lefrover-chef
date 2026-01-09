@@ -1,0 +1,7 @@
+{
+  "name": "The Leftover Chef",
+  "description": "Transform your random fridge leftovers into gourmet meals with AI-powered recipe generation, image analysis, and a culinary assistant chat.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
